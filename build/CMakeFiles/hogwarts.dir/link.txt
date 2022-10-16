@@ -1,2 +1,0 @@
-/usr/bin/ar qc dist/libhogwarts.a  CMakeFiles/hogwarts.dir/src/sorting/house/gryffindor.cpp.o CMakeFiles/hogwarts.dir/src/sorting/house/slytherin.cpp.o CMakeFiles/hogwarts.dir/src/sorting/utils/print_house.cpp.o
-/usr/bin/ranlib dist/libhogwarts.a
